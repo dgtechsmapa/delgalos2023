@@ -24,7 +24,7 @@
                             DELGALOS 2023
                         </h1>
                         <span class="d-block mb-5 caption" data-aos="fade-up" data-aos-delay="300">ARTHA NAWA SENA SANJAYA</span>
-                        <a href="<?php echo base_url('user') ?>" class="btn-custom" data-aos="fade-up" data-aos-delay="400"><span>Pilih</span></a>
+                        <a href="<?php echo base_url('user') ?>" class="btn-custom" data-aos="fade-up" data-aos-delay="400"><span>PILIH</span></a>
                     </div>
                 </div>
             </div>
